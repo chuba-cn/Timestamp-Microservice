@@ -17,7 +17,7 @@ The Timestamp Microservice is hosted at [https://timestamp-microservice-2m2a.onr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/timestamp-microservice.git
+    git clone https://github.com/chuba-cn/timestamp-microservice.git
     ```
 
 2. Navigate to the project directory:
