@@ -2,11 +2,15 @@
 
 ## Overview
 
-The Timestamp Microservice is a Node.js web application built using the Express framework. It provides a simple API that allows users to obtain Unix and UTC timestamps based on either the current date or a user-specified date.
+The Timestamp Microservice is a simple API that provides timestamp information in both Unix and UTC formats. It allows users to retrieve the current timestamp or convert a provided date string to timestamp formats. This documentation outlines the usage and endpoints of the Timestamp Microservice.
 
 ## Prerequisites
 
 Before running the application, ensure that you have Node.js and npm installed on your machine.
+
+## API Base URL
+
+The Timestamp Microservice is hosted at [https://timestamp-microservice-2m2a.onrender.com](https://timestamp-microservice-2m2a.onrender.com).
 
 ## Installation
 
